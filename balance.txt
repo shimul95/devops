@@ -7,7 +7,4 @@ if minimum=="yes";
 
 else:
 
-      cash=input("do you have cash")
-      if cash=="yes";
-      print("cash payment")
-         
+      print("proceed with the transaction")
